@@ -1,4 +1,4 @@
 # GIS-maps
-Eco-index has provided publically available GIS maps on Koordinates. The three currently available maps distinguish ecosystem current status and restoration priority, a pre-human ecosystem distribution (based on work from Manaaki Whenua) with a modification to add more deliniation to wetland areas and finally the catchment areas defined by eco-index based on water draining catchments. All maps have a nation wide coverage.
+Eco-index has provided publicly available GIS maps on Koordinates. There are six currently available. 1. Eco-index Catchments for NZ 2. Eco-index Ecosystem Projector for NZ 3. Eco-index Land Cover Snapshot for NZ 4. Eco-index Maintenance Costings for NZ 5. Eco-index Reconstruction Costings for NZ 6. Eco-index Ecosystem 15% Cover Goal. 
 
 https://koordinates.com/from/eco-index.koordinates.com/data/
